@@ -7,95 +7,80 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Nefeli Kousi
+    tagline: FInteraction Technologist / Web Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: nefeli.kousi@gmail.com
+    phone: 
+    website:  #do not add http://
+    linkedin: nefeli-kousi-bb006862
+    github: bytemonster
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Byte_Monster'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Greek
+        level: Naitive
+
+      - idiom: Frensh
+        level: Beginner 
 
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Volunteering
         link:
 
-      - item: Cooking
+      - item: Improvisation Theater
+        link:
+
+      - item: Writing fantacy stories
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+ A solution-oriented and human-focused web developer with 4 years of professional experience using a variety of frameworks. Worked both at CERN a large international organisation as well as a startup at its infancy.
+      Demonstrated ability to work in diverse environments and handle customer support, communicate and define customer needs as well as executing technical work. 
 
-      Second paragraph if required.
+      Notable voluntary work includes organising successful fundraisers, large and small technical events, marketing for student organisations, mentoring and coaching youth on technology and physics. 
+
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Interaction Technology
+      university: University of Twente
+      time: 2019 - now
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The masters of Interaction Technology is the sweet-spot where computer science, human-computer interaction, Artificial Intelligence, interactive systems, electrical engineering, analysing human behaviour and exploring user contexts meet. 
+        The program aims at providing expertise in both technical development as well as human needs and behaviour. 
+        For this student the program offers a smooth transition between developement and problem solving using technology.
 
-          - Bullet point
-          - Bullet point
+        Some of the courses this student has selected/participated in are: 
+          - Artificial Intelligence
+          - Human-Computer Interaction
+          - Human-Centered Design
+          - Data Science
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BSc in Informatics and Telecommunications
+      university: National Kapodestrian University of Athens
+      time: 2007 - 2015
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Community and Communications Manager
+      time: Aug 2019 - Oct 2019
+      company: AIcrowd, Geneva
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As a Community 
 
           - Bullet point
           - Bullet point
