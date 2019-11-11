@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Nefeli Kousi
     tagline: Interaction Technologist, Web Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: nefeli.kousi@gmail.com
@@ -51,7 +51,7 @@ career-profile:
     title: Career Profile
     summary: |
       A solution-oriented and human-focused web developer with 4 years of professional experience using a variety of frameworks. Worked both at CERN a large international organisation as well as a startup at its infancy.
-      Demonstrated ability to work in diverse environments and handle customer support, communicate and define customer needs as well as executing technical work. 
+      Demonstrated ability to work in diverse environments and handle customer support, communicate and define customer needs as well as executing technical work. Served sucessflly as Communication and Community manager both in profecional and voluntary environments. 
 
       Notable voluntary work includes organising successful fundraisers, large and small technical events, marketing for student organisations, mentoring and coaching youth on technology and physics. 
 
@@ -76,40 +76,53 @@ education:
       time: 2007 - 2015
 
 experiences:
-    - role: Community and Communications Manager
+    - role: Community and Communications Manager (Part time)
       time: Aug 2019 - Oct 2019
       company: AIcrowd, Geneva
       details: |
-        As a Community 
+        As a Community Manager my work included organising the current processes and kick-starting the communitys next big projects.
+        While as a Communication Manager my work included planing a strategy, define ways to quantiphy the success of Communications for CrowdAI, kick-start the next channels of communication, set a timetable and code of contact for the Communications.
+        Working with and managing a disperce multicultural team I designed KPIs and created tailored analytics for mesuring success in the long-term. 
 
-          - Bullet point
-          - Bullet point
+          - Communications
+          - Analytics / Google Analytics
+          - Team Management
+          - Content Creation 
+          - Planing / Strategy 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Developer / Fellow
+      time: 2015 - 2018
+      company: CERN, Switzerland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a Fellow at the EP (Experimental Physics) department I maintained and further developed their web infrastructure. My work included but was not limited to:
 
-          - Bullet point
-          - Bullet point
+          - Designing, building and maintaining several websites such as: LPCC (https://lpcc.web.cern.ch), EP-News (https://ep-news.web.cern.ch).
+          - Porting the ROOT documentation into the Jupyter notebooks technology, creating a fully interactive tutorial for ROOT users.
+          - Mentoring and training several colleagues in the use of the websites, as well as supporting other developers at CERN.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Web Developer / Cooperation Associate
+      time: Apr 2015 - Sep 2015
+      company: CERN, Switzerland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a Cooperation Associate for the Software for Physics Group at CERN I redesigned and ported the ROOT (https://root.cern.ch) and PH (https://ep- dep.web.cern.ch, since renamed EP), websites to Drupal 7, similarly to the work I did for the PH-DT and PH-SFT websites. I also supported and further developed the TEDxCERN (https://tedxcern.web.cern.ch) website.
 
-          - Bullet point
-          - Bullet point
+          - Redesigning and porting to Drupal 7 several websites such as: ROOT (https://root.cern.ch) and PH (https://ep-dep.web.cern.ch, since renamed EP)
+          - Supported and further developed the TEDxCERN website (https://tedxcern.web.cern.ch)
+
+    - role: Intern / Technical Student 
+      time: 2013 - 2014
+      company: CERN, Switzerland
+      details: |
+        My internship was a collaboration of PH-DT (http://ph-dep-dt.web.cern.ch/) (~100 members, 12 teams) and PH-SFT (http://ph-dep-sft.web.cern.ch/) (~30 members, 10 projects), for the redesign of their websites. Both websites I completed, released and they are currently active.
+
+          - Designing, building and initialising the content of the websites in Drupal7
+          - Setting up of the editors and administrators workflows, in order to create a simple, human-friendly, sustainable and scalable infrastructure.
+          - Working closely with Group Leaders of both groups and contact persons of all of the teams in order to make sure that their unique needs are taken into consideration in the designing process.
+
+voluntary work:
+    title: Voluntary Work
+    intro: >
+
 
 projects:
     title: Projects
@@ -164,21 +177,21 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 50%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 60%
 
-      - name: Angular
-        level: 98%
+      - name: Drupal 
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Illustrator & Photoshop
         level: 60%
 
 footer: >
