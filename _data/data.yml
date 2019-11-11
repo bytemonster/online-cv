@@ -50,10 +50,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A solution-oriented and human-focused web developer with 4 years of professional experience using a variety of frameworks. Worked both at CERN a large international organisation as well as a startup at its infancy.
-      Demonstrated ability to work in diverse environments and handle customer support, communicate and define customer needs as well as executing technical work. Served sucessflly as Communication and Community manager both in profecional and voluntary environments. 
+      A solution-oriented and human-focused web developer with 4 years of professional experience 
+      using a variety of frameworks. Worked both at CERN a large international organisation as well 
+      as a startup at its infancy.
+      Demonstrated ability to work in diverse environments and handle customer support, communicate 
+      and define customer needs as well as executing technical work. Served sucessflly as Communication 
+      and Community manager both in profecional and voluntary environments. 
 
-      Notable voluntary work includes organising successful fundraisers, large and small technical events, marketing for student organisations, mentoring and coaching youth on technology and physics. 
+      Notable voluntary work includes organising successful fundraisers, large and small technical 
+      events, marketing for student organisations, mentoring and coaching youth on technology and physics. 
 
 
 education:
@@ -61,9 +66,13 @@ education:
       university: University of Twente
       time: 2019 - now
       details: |
-        The masters of Interaction Technology is the sweet-spot where computer science, human-computer interaction, Artificial Intelligence, interactive systems, electrical engineering, analysing human behaviour and exploring user contexts meet. 
-        The program aims at providing expertise in both technical development as well as human needs and behaviour. 
-        For this student the program offers a smooth transition between developement and problem solving using technology.
+        The masters of Interaction Technology is the sweet-spot where computer science, human-computer 
+        interaction, Artificial Intelligence, interactive systems, electrical engineering, analysing 
+        human behaviour and exploring user contexts meet. 
+        The program aims at providing expertise in both technical development as well as human needs 
+        and behaviour. 
+        For this student the program offers a smooth transition between developement and problem solving 
+        using technology.
 
         Some of the courses this student has selected/participated in are: 
           - Artificial Intelligence
@@ -80,9 +89,13 @@ experiences:
       time: Aug 2019 - Oct 2019
       company: AIcrowd, Geneva
       details: |
-        As a Community Manager my work included organising the current processes and kick-starting the communitys next big projects.
-        While as a Communication Manager my work included planing a strategy, define ways to quantiphy the success of Communications for CrowdAI, kick-start the next channels of communication, set a timetable and code of contact for the Communications.
-        Working with and managing a disperce multicultural team I designed KPIs and created tailored analytics for mesuring success in the long-term. 
+        As a Community Manager my work included organising the current processes and kick-starting the 
+        communitys next big projects.
+        While as a Communication Manager my work included planing a strategy, define ways to quantiphy 
+        the success of Communications for CrowdAI, kick-start the next channels of communication, set a 
+        timetable and code of contact for the Communications.
+        Working with and managing a disperce multicultural team I designed KPIs and created tailored 
+        analytics for mesuring success in the long-term. 
 
           - Communications
           - Analytics / Google Analytics
@@ -94,35 +107,66 @@ experiences:
       time: 2015 - 2018
       company: CERN, Switzerland
       details: |
-        As a Fellow at the EP (Experimental Physics) department I maintained and further developed their web infrastructure. My work included but was not limited to:
+        As a Fellow at the EP (Experimental Physics) department I maintained and further developed their web 
+        infrastructure. My work included but was not limited to:
 
-          - Designing, building and maintaining several websites such as: LPCC (https://lpcc.web.cern.ch), EP-News (https://ep-news.web.cern.ch).
-          - Porting the ROOT documentation into the Jupyter notebooks technology, creating a fully interactive tutorial for ROOT users.
-          - Mentoring and training several colleagues in the use of the websites, as well as supporting other developers at CERN.
+          - Designing, building and maintaining several websites such as: LPCC (https://lpcc.web.cern.ch), 
+          EP-News (https://ep-news.web.cern.ch).
+          - Porting the ROOT documentation into the Jupyter notebooks technology, creating a fully interactive 
+          tutorial for ROOT users.
+          - Mentoring and training several colleagues in the use of the websites, as well as supporting other 
+          developers at CERN.
 
     - role: Web Developer / Cooperation Associate
       time: Apr 2015 - Sep 2015
       company: CERN, Switzerland
       details: |
-        As a Cooperation Associate for the Software for Physics Group at CERN I redesigned and ported the ROOT (https://root.cern.ch) and PH (https://ep- dep.web.cern.ch, since renamed EP), websites to Drupal 7, similarly to the work I did for the PH-DT and PH-SFT websites. I also supported and further developed the TEDxCERN (https://tedxcern.web.cern.ch) website.
+        As a Cooperation Associate for the Software for Physics Group at CERN I redesigned and ported the ROOT 
+        (https://root.cern.ch) and PH (https://ep- dep.web.cern.ch, since renamed EP), websites to Drupal 7, 
+        similarly to the work I did for the PH-DT and PH-SFT websites. I also supported and further developed the 
+        TEDxCERN (https://tedxcern.web.cern.ch) website.
 
-          - Redesigning and porting to Drupal 7 several websites such as: ROOT (https://root.cern.ch) and PH (https://ep-dep.web.cern.ch, since renamed EP)
+          - Redesigning and porting to Drupal 7 several websites such as: ROOT (https://root.cern.ch) and PH 
+          (https://ep-dep.web.cern.ch, since renamed EP)
           - Supported and further developed the TEDxCERN website (https://tedxcern.web.cern.ch)
 
     - role: Intern / Technical Student 
       time: 2013 - 2014
       company: CERN, Switzerland
       details: |
-        My internship was a collaboration of PH-DT (http://ph-dep-dt.web.cern.ch/) (~100 members, 12 teams) and PH-SFT (http://ph-dep-sft.web.cern.ch/) (~30 members, 10 projects), for the redesign of their websites. Both websites I completed, released and they are currently active.
+        My internship was a collaboration of PH-DT (http://ph-dep-dt.web.cern.ch/) (~100 members, 
+        12 teams) and PH-SFT (http://ph-dep-sft.web.cern.ch/) (~30 members, 10 projects), for the 
+        redesign of their websites. Both websites I completed, released and they are currently active.
 
           - Designing, building and initialising the content of the websites in Drupal7
-          - Setting up of the editors and administrators workflows, in order to create a simple, human-friendly, sustainable and scalable infrastructure.
-          - Working closely with Group Leaders of both groups and contact persons of all of the teams in order to make sure that their unique needs are taken into consideration in the designing process.
+          - Setting up of the editors and administrators workflows, in order to create a simple, 
+          human-friendly, sustainable and scalable infrastructure.
+          - Working closely with Group Leaders of both groups and contact persons of all of the teams 
+          in order to make sure that their unique needs are taken into consideration in the designing process.
 
-voluntary work:
-    title: Voluntary Work
-    intro: >
+volunteering:
+    - role: Volunteer 
+      time: Jan 2018 - Mar 2018
+      company: 
+      details: |
+          Marine Conservation and Wildlife Care
+          - Reforestation
+          - Coral planting
+          - Data collection
 
+    - role: Volunteer 
+      time: Jan 2018 - Mar 2018
+      company: Fish Forest 
+      details: |
+          Embrace Taiwan-Redefine Tourism Mixer. The program included content 
+          creation and promotion on social media (FaceBook, Instagram and Youtube) of a fishing village. 
+          The Fish Forest company is aiming to re-define the Linbian village as a tourist destination utilising
+          the local scenery as well as beauty.
+
+          - Content creation 
+          - Photography
+          - Videography
+          - Social Media promotion
 
 projects:
     title: Projects
@@ -153,29 +197,38 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: #Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: #The Art of Computer Programming
+        authors: #Donald E. Knuth
+        conference: #Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: #"Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: #Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: #"Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: #A syntax directed compiler for Algol 60
+        authors: #Edgar T. Irons
+        conference: #"Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Usability Testing
+        level: 70%
+
+      - name: Information Design
+        level: 90%
+
+      - name: Web Design
+        level: 90%
+
       - name: Python & Django
         level: 50%
 
@@ -188,10 +241,10 @@ skills:
       - name: HTML5 & CSS
         level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
       - name: Illustrator & Photoshop
+        level: 60%
+
+      - name: Event Organisation
         level: 60%
 
 footer: >
