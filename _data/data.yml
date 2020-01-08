@@ -185,12 +185,14 @@ projects:
 
     assignments:
       - title: Wireless Battle Mesh v5 in Athens
-        link: "#hook"
-        tagline: "An international 9-day event (60-70 psrticipants) bringing together the creators of MESH network protocols in order for them to work together and test their work."
+        link: "https://www.battlemesh.org/BattleMeshV5"
+        tagline: "An international 9-day event (60-100 participants) bringing together the creators of MESH network protocols in order for them to work together and test their work.
+        In 2011 I lead the organisation of the event in Athens."
 
-      # - title: DevStudio
-      #   link: "#"
-      #   tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Django Girls Geneva @ CERN
+        link: "https://djangogirls.org/geneva1/"
+        tagline: "Django Girls organize free Python and Django workshops, create open sourced online tutorials and curate amazing first experiences with technology. 
+        In 2015 I participated in the event held at CERN as a coach and in 2016 I lead the organisation of the second edition."
 
       # - title: Tempo
       #   link: "#"
