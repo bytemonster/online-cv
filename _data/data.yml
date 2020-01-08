@@ -44,7 +44,7 @@ sidebar:
       - item: Improvisation Theater
         link:
 
-      - item: Writing fantacy stories
+      - item: Crafting
         link:
 
 career-profile:
@@ -85,24 +85,6 @@ education:
       time: 2007 - 2015
 
 experiences:
-    - role: Community and Communications Manager (Part time)
-      time: Aug 2019 - Oct 2019
-      company: AIcrowd, Geneva
-      details: |
-        As a Community Manager my work included organising the current processes and kick-starting the 
-        communitys next big projects.
-        While as a Communication Manager my work included planing a strategy, define ways to quantiphy 
-        the success of Communications for CrowdAI, kick-start the next channels of communication, set a 
-        timetable and code of contact for the Communications.
-        Working with and managing a disperce multicultural team I designed KPIs and created tailored 
-        analytics for mesuring success in the long-term. 
-
-          - Communications
-          - Analytics / Google Analytics
-          - Team Management
-          - Content Creation 
-          - Planing / Strategy 
-
     - role: Software Developer / Fellow
       time: 2015 - 2018
       company: CERN, Switzerland
@@ -144,6 +126,24 @@ experiences:
           - Working closely with Group Leaders of both groups and contact persons of all of the teams 
           in order to make sure that their unique needs are taken into consideration in the designing process.
 
+    - role: Community and Communications Manager (Part time)
+      time: Aug 2019 - Oct 2019
+      company: AIcrowd, Geneva
+      details: |
+        As a Community Manager my work included organising the current processes and kick-starting the 
+        communitys next big projects.
+        While as a Communication Manager my work included planing a strategy, define ways to quantiphy 
+        the success of Communications for CrowdAI, kick-start the next channels of communication, set a 
+        timetable and code of contact for the Communications.
+        Working with and managing a disperce multicultural team I designed KPIs and created tailored 
+        analytics for mesuring success in the long-term. 
+
+          - Communications
+          - Analytics / Google Analytics
+          - Team Management
+          - Content Creation 
+          - Planing / Strategy 
+
 volunteering:
     - role: Volunteer 
       time: Jan 2018 - Mar 2018
@@ -168,53 +168,53 @@ volunteering:
           - Videography
           - Social Media promotion
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: #Publications
-    intro: #|
-     # You can list your publications in this section. Lorem ipsum dolor sit
-     # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-     # bibendum fringilla a eu lectus.
+# publications:
+#     title: #Publications
+#     intro: #|
+#      # You can list your publications in this section. Lorem ipsum dolor sit
+#      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      # bibendum fringilla a eu lectus.
 
-    papers:
-      - title: #The Art of Computer Programming
-        authors: #Donald E. Knuth
-        conference: #Addison-Wesley, 1968
+#     papers:
+#       - title: #The Art of Computer Programming
+#         authors: #Donald E. Knuth
+#         conference: #Addison-Wesley, 1968
 
-      - title: #"Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: #Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: #"Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: #"Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: #Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: #"Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: #A syntax directed compiler for Algol 60
-        authors: #Edgar T. Irons
-        conference: #"Comm. ACM 4 (1961), 51–55"
+#       - title: #A syntax directed compiler for Algol 60
+#         authors: #Edgar T. Irons
+#         conference: #"Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -229,8 +229,8 @@ skills:
       - name: Web Design
         level: 90%
 
-      - name: Python & Django
-        level: 50%
+      - name: Python
+        level: 60%
 
       - name: Javascript & jQuery
         level: 60%
@@ -245,7 +245,7 @@ skills:
         level: 60%
 
       - name: Event Organisation
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
