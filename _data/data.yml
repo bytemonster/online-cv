@@ -145,14 +145,23 @@ experiences:
           - Planing / Strategy 
 
 volunteering:
+
     - role: Volunteer 
       time: Jan 2018 - Mar 2018
       company: 
       details: |
-          Marine Conservation and Wildlife Care
+          Marine Conservation and Wildlife Care. The program involved us with two organisations the KKWC 
+          (Kota Kinabalu Wetland Center) and the KCS (Kudat Conservation Society). My team assisted in the re-forestation of a 
+          mangrove forest area as well as the upkeep of the Wetland Center itself. In Kudat we worked with the KCS assisting 
+          in sea turtle conservation efforts. My work included but was not limited to:
+          
           - Reforestation
           - Coral planting
           - Data collection
+          - Assistance with IT related issues
+          - Participation in a training by WWF
+          - Internal organisation
+          - Outreach about ecological issues
 
     - role: Volunteer 
       time: Jan 2018 - Mar 2018
@@ -168,33 +177,32 @@ volunteering:
           - Videography
           - Social Media promotion
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Event Organisation
+    intro: >
+      Durring my education and professional career I have been active in various causes that interest me (Open Source communities, hacker spaces, 
+      science outreach efforts, educational projects etc). Here are a few of the events I lead, or helped organise. 
 
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Wireless Battle Mesh v5 in Athens
+        link: "#hook"
+        tagline: "An international 9-day event (60-70 psrticipants) bringing together the creators of MESH network protocols in order for them to work together and test their work."
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+      # - title: DevStudio
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      # - title: Tempo
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      # - title: Atom
+      #   link: "#"
+      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # publications:
 #     title: #Publications
@@ -248,4 +256,4 @@ skills:
         level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
