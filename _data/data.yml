@@ -50,15 +50,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A solution-oriented and human-focused web developer with 4 years of professional experience 
-      using a variety of frameworks. Worked both at CERN a large international organisation as well 
-      as a startup at its infancy.
-      Demonstrated ability to work in diverse environments and handle customer support, communicate 
-      and define customer needs as well as executing technical work. Served sucessflly as Communication 
-      and Community manager both in profecional and voluntary environments. 
+      AI am a solution-oriented and human-focused web developer with 4 years of professional experience using a variety 
+      of frameworks. Worked both at CERN a large international organisation as well as a startup at its infancy.
+      Demonstrated ability to work in diverse environments and handle customer support, communicate and define customer 
+      needs as well as executing technical work. Served successfully as Communication and Community manager both in professional and voluntary environments. 
 
-      Notable voluntary work includes organising successful fundraisers, large and small technical 
-      events, marketing for student organisations, mentoring and coaching youth on technology and physics. 
+      Notable voluntary work includes organising successful fundraisers, large and small technical events, marketing for 
+      student organisations, mentoring and coaching youth on technology and physics. 
 
 
 education:
@@ -67,18 +65,11 @@ education:
       time: 2019 - now
       details: |
         The masters of Interaction Technology is the sweet-spot where computer science, human-computer 
-        interaction, Artificial Intelligence, interactive systems, electrical engineering, analysing 
-        human behaviour and exploring user contexts meet. 
-        The program aims at providing expertise in both technical development as well as human needs 
-        and behaviour. 
-        For this student the program offers a smooth transition between developement and problem solving 
-        using technology.
+        interaction, Artificial Intelligence, interactive systems, electrical engineering, analysing human behaviour 
+        and exploring user contexts meet. 
+        The program aims at providing expertise in both technical development as well as human needs and behaviour. 
+        For me the program offers a smooth transition between development and problem solving using technology.
 
-        Some of the courses this student has selected/participated in are: 
-          - Artificial Intelligence
-          - Human-Computer Interaction
-          - Human-Centered Design
-          - Data Science
 
     - degree: BSc in Informatics and Telecommunications
       university: National Kapodestrian University of Athens
@@ -89,15 +80,12 @@ experiences:
       time: 2015 - 2018
       company: CERN, Switzerland
       details: |
-        As a Fellow at the EP (Experimental Physics) department I maintained and further developed their web 
+        As a Fellow at the EP (Experimental Physics) department, I maintained and further developed their web 
         infrastructure. My work included but was not limited to:
 
-          - Designing, building and maintaining several websites such as: LPCC (https://lpcc.web.cern.ch), 
-          EP-News (https://ep-news.web.cern.ch).
-          - Porting the ROOT documentation into the Jupyter notebooks technology, creating a fully interactive 
-          tutorial for ROOT users.
-          - Mentoring and training several colleagues in the use of the websites, as well as supporting other 
-          developers at CERN.
+          - Designing, building and maintaining several websites such as LPCC (https://lpcc.web.cern.ch), EP-News (https://ep-news.web.cern.ch).
+          - Porting the ROOT documentation into the Jupyter notebooks technology, creating a fully interactive tutorial for ROOT users.
+          - Mentoring and training several colleagues in the use of the websites, as well as supporting other developers at CERN.
 
     - role: Web Developer / Cooperation Associate
       time: Apr 2015 - Sep 2015
@@ -108,7 +96,7 @@ experiences:
         similarly to the work I did for the PH-DT and PH-SFT websites. I also supported and further developed the 
         TEDxCERN (https://tedxcern.web.cern.ch) website.
 
-          - Redesigning and porting to Drupal 7 several websites such as: ROOT (https://root.cern.ch) and PH 
+          - Redesigning and porting to Drupal 7 several websites such as ROOT (https://root.cern.ch) and PH 
           (https://ep-dep.web.cern.ch, since renamed EP)
           - Supported and further developed the TEDxCERN website (https://tedxcern.web.cern.ch)
 
@@ -130,13 +118,11 @@ experiences:
       time: Aug 2019 - Oct 2019
       company: AIcrowd, Geneva
       details: |
-        As a Community Manager my work included organising the current processes and kick-starting the 
-        communitys next big projects.
-        While as a Communication Manager my work included planing a strategy, define ways to quantiphy 
+        As a Community Manager, my work included organising the current processes and kick-starting the community's next big projects.
+        While as a Communication Manager my work included planing a strategy, define ways to quantify 
         the success of Communications for CrowdAI, kick-start the next channels of communication, set a 
-        timetable and code of contact for the Communications.
-        Working with and managing a disperce multicultural team I designed KPIs and created tailored 
-        analytics for mesuring success in the long-term. 
+        timetable and code of contact for the Communications
+        Working with and managing a disperse multicultural team I designed KPIs and created tailored analytics for measuring success in the long-term.  
 
           - Communications
           - Analytics / Google Analytics
@@ -148,7 +134,7 @@ experiences:
       time: 2011 – 2012
       company: OTE SA, Athens
       details: |
-        My dutties included instructing customers, according to their problem and level of understanding, 
+        My duties included instructing customers, according to their problem and level of understanding, 
         and decide whether or not to request a technician.
 
 volunteering:
@@ -196,9 +182,8 @@ volunteering:
 projects:
     title: Event Organisation
     intro: >
-      Durring my education and professional career I have been active in various causes that interest me (Open Source communities, hacker spaces, 
-      science outreach efforts, educational projects etc). Here are a few of the events I lead, or helped organise. 
-
+      During my education and professional career I have been active in various causes that interest me (Open Source communities, hackerspaces, 
+      science outreach efforts, educational projects etc). Here are a few of the events I lead or helped organise.
     assignments:
       - title: Wireless Battle Mesh v5 in Athens
         link: "https://www.battlemesh.org/BattleMeshV5"
@@ -207,7 +192,7 @@ projects:
 
       - title: Django Girls Geneva @ CERN
         link: "https://djangogirls.org/geneva1/"
-        tagline: "Django Girls organize free Python and Django workshops, create open sourced online tutorials and curate amazing first experiences with technology. 
+        tagline: "Django Girls organize free Python and Django workshops, create open source online tutorials and curate amazing first experiences with technology. 
         In 2015 I participated in the event held at CERN as a coach and in 2016 I lead the organisation of the second edition."
 
       # - title: Tempo
